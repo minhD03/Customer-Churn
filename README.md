@@ -33,6 +33,7 @@ Thesea are the screenshots captured from the experiments. Further Report can be 
 
 ![alt text](https://github.com/minhD03/Customer-Churn/blob/9fb6c96741d46aa75b0769f35a3a85ea3d62dafd/Image/Random%20Forest%20With%20Max%20Depth%20of%204.png)
 ![alt text](https://github.com/minhD03/Customer-Churn/blob/9fb6c96741d46aa75b0769f35a3a85ea3d62dafd/Image/Random%20Forest%20With%20Max%20Depth%20of%208.png)
+![alt text](https://github.com/minhD03/Customer-Churn/blob/c4391a0fb11d53ede8f9090f2015a82a2d0eda1d/Image/LightGBM.png)
 ![alt text](https://github.com/minhD03/Customer-Churn/blob/9fb6c96741d46aa75b0769f35a3a85ea3d62dafd/Image/Result%20Example.png)
 
 ## 5. Conclusions:
