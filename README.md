@@ -19,14 +19,14 @@ These are the libraries that were neccessary to conduct the experiment. To insta
 
 | Library / Tool    | Install Command            | Purpose                                                                 | What It Does                                                                                   |
 |-------------------|----------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| pandas            | `pip install pandas`       | Core data manipulation and analysis                                     | Provides DataFrames for tabular data, supports filtering, grouping, merging, and time series   |
-| numpy             | `pip install numpy`        | Numerical operations and array manipulation                            | Enables fast numerical computations, array broadcasting, and linear algebra operations         |
-| matplotlib        | `pip install matplotlib`   | Global plot aesthetics and layout customization                         | Creates static, animated, and interactive visualizations with full control over plot elements  |
+| pandas            | `pip install pandas`       | Core data manipulation and analysis                                     | Provides DataFrames for tabular data, supports filtering, grouping, merging and time series   |
+| numpy             | `pip install numpy`        | Numerical operations and array manipulation                            | Enables fast numerical computations, array broadcasting and linear algebra operations         |
+| matplotlib        | `pip install matplotlib`   | Global plot aesthetics and layout customization                         | Creates static, animated and interactive visualizations with full control over plot elements  |
 | seaborn           | `pip install seaborn`      | High-level statistical data visualization for churn patterns            | Simplifies complex plots (e.g., heatmaps, violin plots) with built-in themes and aggregation   |
-| scikit-learn      | `pip install scikit-learn` | ML models, metrics, and utilities (e.g., train-test split, classifiers) | Offers a wide range of supervised/unsupervised models, preprocessing tools, and evaluation     |
-| imbalanced-learn  | `pip install imbalanced-learn` | Tools for handling imbalanced datasets (e.g., SMOTE)                | Provides resampling techniques like SMOTE, Tomek Links, and ensemble balancing strategies       |
+| scikit-learn      | `pip install scikit-learn` | ML models, metrics and utilities (e.g., train-test split, classifiers) | Offers a wide range of supervised/unsupervised models, preprocessing tools and evaluation     |
+| imbalanced-learn  | `pip install imbalanced-learn` | Tools for handling imbalanced datasets (e.g., SMOTE)                | Provides resampling techniques like SMOTE, Tomek Links and ensemble balancing strategies       |
 | lightgbm          | `pip install lightgbm`     | Fast gradient boosting classifier for large-scale churn datasets        | Uses histogram-based learning for efficient training on large, sparse datasets                 |
-| xgboost           | `pip install xgboost`      | High-performance gradient boosting (XGBClassifier)                      | Optimized for speed and accuracy with regularization, early stopping, and tree pruning         |
+| xgboost           | `pip install xgboost`      | High-performance gradient boosting (XGBClassifier)                      | Optimized for speed and accuracy with regularization, early stopping and tree pruning         |
 | catboost          | `pip install catboost`     | Gradient boosting optimized for categorical features                    | Handles categorical variables natively, reducing preprocessing and improving accuracy          |
 | mlflow            | `pip install mlflow`       | ML lifecycle management: tracking, reproducibility, deployment          | Tracks experiments, logs models and metrics, supports deployment across platforms              |
 
